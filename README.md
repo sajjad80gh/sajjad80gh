@@ -11,11 +11,8 @@
 <p align="left">👩‍💻 I'm currently working on  full-stack of javascript<br><br>🧠 I'm currently learning the new feature <br><br>🤔 I'm looking for help with...<br><br>💬 Ask me about anything related to MERN stack and related technologies<br><br>⚡️ Fun fact i love code .<br><br> 😄 Coding to death.</p>
 <br/><br/>
 <div>
-  “The only way to go fast, is to go well.”
-  <br/>
-  — Robert C. Martin
+  “Truth can only be found in one place: the code.” — Robert C. Martin
 </div>
-###
 
 <h3 align="left">🛠 Skills</h3>
 
