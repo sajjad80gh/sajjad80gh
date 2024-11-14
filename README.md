@@ -56,6 +56,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
 </div>
 
+<div>
+  “The only way to go fast, is to go well.”
+  <br/>
+  — Robert C. Martin
+</div>
+
 ###
 
 <h3 align="left">⚡️Github states</h3>
