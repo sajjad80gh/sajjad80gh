@@ -63,8 +63,8 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=sajjad80gh&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sajjad80gh&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad80gh&theme=github">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajjad80gh&theme=dark)](https://git.io/streak-stats)
-  
+  <img width="385px" src="[https://github-readme-activity-graph.vercel.app/graph?username=sajjad80gh&theme=github](https://github-readme-streak-stats.herokuapp.com?user=sajjad80gh&theme=dark)">
+ 
 </div>
 
 ## Feeding...
