@@ -62,9 +62,12 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=sajjad80gh&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad80gh&hide_border=true&layout=compact" align="left" />  
 <br/> 
-
 <div>
-    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad80gh&theme=github">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=sajjad80gh&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sajjad80gh&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad80gh&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?username=sajjad80gh&theme=onedark" />
 </div>
 
+## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/sajjad80gh/sajjad80gh/output/github-contribution-grid-snake-dark.svg)
