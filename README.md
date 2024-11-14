@@ -63,6 +63,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad80gh&hide_border=true&layout=compact" align="left" />  
 <br/> 
 
-
+<div>
+    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=sajjad80gh&theme=github">
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/sajjad80gh/sajjad80gh/output/github-contribution-grid-snake-dark.svg)
