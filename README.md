@@ -5,10 +5,9 @@
 </div>  
 
 
-
+###
 <h3 align="left">🚀 About Me</h3>
 ###
-
 <p align="left">👩‍💻 I'm currently working on  full-stack of javascript<br><br>🧠 I'm currently learning the new feature <br><br>🤔 I'm looking for help with...<br><br>💬 Ask me about anything related to MERN stack and related technologies<br><br>⚡️ Fun fact i love code .<br><br> 😄 Coding to death.</p>
 
 ###
