@@ -3,7 +3,10 @@
 ###
 
 <h3 align="left">🚀 About Me</h3>
-
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sajjad80gh&&style=flat-square" align="center" />
+</div>  
 ###
 
 <p align="left">👩‍💻 I'm currently working on  full-stack of javascript<br><br>🧠 I'm currently learning the new feature <br><br>🤔 I'm looking for help with...<br><br>💬 Ask me about anything related to MERN stack and related technologies<br><br>⚡️ Fun fact i love code .<br><br> 😄 Coding to death.</p>
@@ -57,5 +60,7 @@
 ###
 
 <h3 align="left">⚡️Github states</h3>
-
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=sajjad80gh&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad80gh&hide_border=true&layout=compact" align="left" />  
+<br/>  
 ###
