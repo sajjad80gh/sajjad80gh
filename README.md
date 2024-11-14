@@ -9,7 +9,12 @@
 <h3 align="left">🚀 About Me</h3>
 
 <p align="left">👩‍💻 I'm currently working on  full-stack of javascript<br><br>🧠 I'm currently learning the new feature <br><br>🤔 I'm looking for help with...<br><br>💬 Ask me about anything related to MERN stack and related technologies<br><br>⚡️ Fun fact i love code .<br><br> 😄 Coding to death.</p>
-
+<br/><br/>
+<div>
+  “The only way to go fast, is to go well.”
+  <br/>
+  — Robert C. Martin
+</div>
 ###
 
 <h3 align="left">🛠 Skills</h3>
@@ -56,11 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
 </div>
 
-<div>
-  “The only way to go fast, is to go well.”
-  <br/>
-  — Robert C. Martin
-</div>
+
 
 ###
 
